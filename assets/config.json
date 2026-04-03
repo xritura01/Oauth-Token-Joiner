@@ -1,0 +1,22 @@
+{
+    "bot": {
+        "BotToken": "",
+        "Client_Id": "",
+        "Client_Secret": "",
+        "Whitelisted_Ids": [
+            "1486848700331462826",
+            ""
+        ],
+        "RegisterCommand": true,
+        "Auto_Role": false
+    },
+    "tool": {
+        "rotating_proxy": "",
+        "max_workers": 4,
+        "delay_between_join": 0.5,
+        "token_file": "assets/tokens.txt",
+        "redirect_uri": "http://localhost:8080/oauth2",
+        "tls_client_identifier": "chrome_120",
+        "save_Oauth_in_db": false
+    }
+}
