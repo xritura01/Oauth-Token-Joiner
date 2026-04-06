@@ -34,8 +34,8 @@
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/UtilityToolsV2.git
-cd UtilityToolsV2
+git clone https://github.com/xritura01/Oauth-Token-Joiner.git
+cd "Oauth-Token-Joiner"
 ```
 
 ### 2. Install Dependencies
